@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Zarif Khan
 
 Software Engineering student at Carleton University with a focus on AI, full-stack development, and system design. Currently working on medical AI solutions in collaboration with CHEO & Ottawa General Hospital.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicerice96&layout=compact&theme=radical)
+![Wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)
 
 ## 🔭 Current Projects
 - **NICU Action Recognition AI** - Developing an AI model using LLaVA-NeXT-Onevision to identify medical procedures with 75% accuracy
@@ -42,5 +44,7 @@ Software Engineering student at Carleton University with a focus on AI, full-sta
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicerice96&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nicerice96&theme=radical)
+
 
 _I'm passionate about creating efficient, scalable solutions and always open to collaborating on interesting projects!_
