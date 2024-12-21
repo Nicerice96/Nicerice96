@@ -9,7 +9,7 @@
   <br>
   <img src="AmazinLogo.png" alt="Amazin Logo">
   <img src="activeEdge.png" alt="Active Edge Logo">
-  <img src="UNO.png" alt="UnoFlip Logo" width = 200 height = 200>
+  <img src="UNO.png" alt="UnoFlip Logo" width = 250 height = 250>
   <br><br>
   
   
