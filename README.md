@@ -23,15 +23,29 @@ Software Engineering student at Carleton University with a focus on AI, full-sta
 - Integrated with Spring Boot frontend for medical professionals
 - Technologies: PyTorch, TensorFlow, CUDA, Spring Boot
 
+### Amazin.ca - E-Commerce Platform
+- A full-stack bookstore application inspired by Amazon's architecture and functionality.
+##Key Features:
+
+- User authentication and role-based access (Admin/Publisher/Customer)
+- Real-time inventory management
+- Shopping cart and checkout system
+- Publisher book management portal
+- Admin dashboard for user and content management
+
+## Tech Stack:
+
+- Frontend: Thymeleaf, HTML5, CSS3, jQuery, AJAX
+- Backend: Spring Boot, Java, RESTful APIs
+- Database: H2 Database, PostgreSQL
+- Deployment: Azure Cloud, Google Cloud Platform
+- Tools: Git, Maven, Docker, CI
+
+
 ### Active Edge Health & Fitness Platform
 - Full-stack application with JavaFX and PostgreSQL
 - Optimized database queries for 30% faster response times
 - 20,000+ lines of code with comprehensive documentation
-
-### Linux CFS Simulator
-- Implemented CFS-like scheduler using POSIX threads
-- Simulated multilevel priority queues
-- Replicated SCHED_FIFO, SCHED_RR, and SCHED_NORMAL behaviors
 
 ## 📫 Let's Connect
 - Email: zarifzawadkhan96@gmail.com
