@@ -2,7 +2,6 @@
 
 <div align="center">
   <h2><b>Things I'm a part of 🌐</b></h2>
-  <br>
   <img src="OGH.png" alt="Organization Logo">
   <img src="CHEO+RI.png" alt="CHEO+RI Logo">
   <br><br>
