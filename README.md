@@ -15,4 +15,6 @@
   <h2><b>GitHub Stats 📊</b></h2>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=nicerice96&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicerice96&layout=compact&theme=radical" alt="Languages Used the Most">
+
 </div>
