@@ -9,8 +9,7 @@
   <h2><b>Stuffs I'm proud of</b></h2>
   <br>
   <img src="AmazinLogo.png" alt="Amazin Logo">
-  <img src="active-edge-logo.svg" alt="Active Edge Logo"
-  width=200 height=200>
+  <img src="activeEdge.png" alt="Active Edge Logo">
   <br><br>
   
   <!-- GitHub Stats -->
