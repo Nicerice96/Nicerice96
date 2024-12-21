@@ -1,48 +1,19 @@
-### __<p align="center">Welcome to the Rice.</p>__
+<h1 align="center">Got rice? 🍚</h1>
 
-
-
-### __<p align="center">Featured Projects</p>
-
-### Video-Based Action Captioning for Neonatal Resuscitation
-- Built AI system to identify 8 distinct NICU actions  
-- Integrated with Spring Boot frontend for medical professionals  
-- Technologies: PyTorch, TensorFlow, CUDA, Spring Boot  
-
-### Amazin.ca - E-Commerce Platform
-- A full-stack bookstore application inspired by Amazon's architecture and functionality.  
-
-**Key Features:**  
-- User authentication and role-based access (Admin/Publisher/Customer)  
-- Real-time inventory management  
-- Shopping cart and checkout system  
-- Publisher book management portal  
-- Admin dashboard for user and content management  
-
-### Active Edge Health & Fitness Platform
-- Full-stack application with JavaFX and PostgreSQL  
-- Optimized database queries for 30% faster response times  
-- 20,000+ lines of code with comprehensive documentation  
-
-</p>
-
-<p align="center">
-
-## 📫 Let's Connect  
-- Email: [zarifzawadkhan96@gmail.com](mailto:zarifzawadkhan96@gmail.com)  
-
-</p>
-
-<p align="center">
-
-## 📊 GitHub Stats  
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicerice96&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicerice96&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nicerice96&theme=radical)  
-
-</p>
-
-
+<div align="center">
+  <b>Things I'm a part of</b>
+  <br>
+  <img src="OGH.png" alt="Organization Logo">
+  <img src="CHEO+RI.png" alt="CHEO+RI Logo">
+  <br><br>
+  <b>Stuffs I'm proud of</b>
+  <br>
+  <img src="AmazinLogo.png" alt="Amazin Logo">
+  <img src="active-edge-logo.svg" alt="Active Edge Logo">
+  <br><br>
+  
+  <!-- GitHub Stats -->
+  <b>GitHub Stats</b>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=nicerice96&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>

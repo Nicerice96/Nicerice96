@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#2196F3" />
+  
+  <!-- Pulse line / Active edge -->
+  <path d="M40 100 L70 100 L85 70 L115 130 L130 100 L160 100" 
+        stroke="white" 
+        stroke-width="8" 
+        fill="none" 
+        stroke-linecap="round"
+        stroke-linejoin="round" />
+  
+  <!-- Text -->
+  <text x="100" y="160" 
+        font-family="Arial, sans-serif" 
+        font-size="24" 
+        fill="white" 
+        text-anchor="middle" 
+        font-weight="bold">
+    ACTIVE EDGE
+  </text>
+</svg>
