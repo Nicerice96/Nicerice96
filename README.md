@@ -4,7 +4,6 @@ Software Engineering student at Carleton University with a focus on AI, full-sta
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicerice96&layout=compact&theme=radical)
-![Wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)
 
 ## 🔭 Current Projects
 - **NICU Action Recognition AI** - Developing an AI model using LLaVA-NeXT-Onevision to identify medical procedures with 75% accuracy
