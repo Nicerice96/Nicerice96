@@ -1,8 +1,8 @@
-### __<p align="center">This is my GitHub. Plenty of rice to go around.</p>__
+### __<p align="center">Welcome to the Rice.</p>__
 
-<p align="center">
 
-## 🚀 Featured Projects
+
+### __<p align="center">Featured Projects</p>
 
 ### Video-Based Action Captioning for Neonatal Resuscitation
 - Built AI system to identify 8 distinct NICU actions  
@@ -45,6 +45,4 @@
 
 </p>
 
-<p align="center">  
-_I’m passionate about creating efficient, scalable solutions and always open to collaborating on interesting projects!_  
-</p>
+
