@@ -1,7 +1,7 @@
 <h1 align="center">Got rice? 🍚</h1>
 
 <div align="center">
-  <h2><b>Things I'm a part of 🌐</b></h2>
+  <h2>Things I'm a part of 🌐</h2>
   <img src="OGH.png" alt="Organization Logo">
   <img src="CHEO+RI.png" alt="CHEO+RI Logo">
   <br><br>
